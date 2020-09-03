@@ -1,2 +1,2 @@
 # aula-javaScript-DIO
-Introdução ao JavaScript
+Introdução ao JavaScript com Rafael Galeani
